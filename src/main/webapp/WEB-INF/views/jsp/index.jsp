@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Ashok IT..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 </h3>
+			<h2>Welcome To Ritesh Dhumal..!!</h2>
+			<h3>Contact @ +91 - 9985296677 / 9985396677 / 8830509852 </h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Ashok IT 2022</p>
+		<p>&copy; Ritesh Dhumal 2022</p>
 	</footer>
 </div>
 
