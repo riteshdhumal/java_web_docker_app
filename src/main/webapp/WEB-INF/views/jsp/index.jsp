@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Maven + Spring MVC</title>
+<title>Welcome to DevOps</title>
 
 <spring:url value="/resources/core/css/hello.css" var="coreCss" />
 <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
@@ -31,7 +31,7 @@
 				Welcome Welcome!
 			</c:if>
 		<p>
-			<a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+			<a class="btn btn-primary btn-lg" href="#" role="button">click here</a>
 		</p>
 	</div>
 </div>
